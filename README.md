@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HotelPro — Complete MERN Hotel Management System
 
 A production-ready full-stack hospitality platform built with **React 18 + Vite**, **Express**, **MongoDB / Mongoose**, **JWT Authentication**, and **Role-Based Access Control (RBAC)**.
@@ -171,3 +172,7 @@ fullstack_project/
 | `GET` | `/api/admin/users` | Admin | List all platform users |
 | `PATCH` | `/api/admin/users/:id/role`| Admin | Change user role (guest, staff, admin) |
 | `DELETE` | `/api/admin/users/:id` | Admin | Remove user account |
+=======
+# HotelPro-MERN
+HotelPro is a web-based hotel management application developed using MongoDB, Express.js, React.js, and Node.js. It helps manage hotel bookings, room reservations, customer details, and staff operations through a user-friendly interface. The project includes user authentication and an admin dashboard for efficient hotel management
+>>>>>>> 7249cc742653f6e7da169aff47ab49b1ae990384
