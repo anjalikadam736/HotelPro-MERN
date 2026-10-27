@@ -1,0 +1,13 @@
+{
+  "name": "hotelpro",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HotelPro — Complete Full Stack MERN Hospitality & Hotel Management System",
+  "scripts": {
+    "backend": "npm --prefix backend run dev",
+    "backend:start": "npm --prefix backend start",
+    "frontend": "npm --prefix frontend run dev",
+    "frontend:build": "npm --prefix frontend run build",
+    "seed": "npm --prefix backend run seed"
+  }
+}
